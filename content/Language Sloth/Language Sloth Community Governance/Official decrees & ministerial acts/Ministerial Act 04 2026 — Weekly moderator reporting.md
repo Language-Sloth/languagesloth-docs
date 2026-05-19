@@ -1,13 +1,7 @@
-<aside>
-📜
-
-**Document type:** Ministerial Act (Immediate effect)
-
-**Number:** 04/2026
-
-**Subject:** Weekly reporting procedure for Moderators
-
-</aside>
+> [!info] 📜 Ministerial Act 04/2026
+> **Document type:** Ministerial Act (Immediate effect)
+> **Number:** 04/2026
+> **Subject:** Weekly reporting procedure for Moderators
 
 ## Ministerial Act No. 04/2026 (Immediate effect)
 

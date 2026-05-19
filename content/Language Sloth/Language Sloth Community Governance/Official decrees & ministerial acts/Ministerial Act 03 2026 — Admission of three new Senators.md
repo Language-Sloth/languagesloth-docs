@@ -1,13 +1,7 @@
-<aside>
-📜
-
-**Document type:** Ministerial Act (Immediate effect)
-
-**Number:** 03/2026
-
-**Subject:** Admission of three new Senators
-
-</aside>
+> [!info] 📜 Ministerial Act 03/2026
+> **Document type:** Ministerial Act (Immediate effect)
+> **Number:** 03/2026
+> **Subject:** Admission of three new Senators
 
 ## Ministerial Act No. 03/2026 (Immediate effect)
 

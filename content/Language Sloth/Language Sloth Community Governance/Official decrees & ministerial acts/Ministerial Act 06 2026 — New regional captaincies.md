@@ -1,14 +1,8 @@
 
-<aside>
-📜
-
-**Document type:** Ministerial Act (Immediate effect)
-
-**Number:** 06/2026
-
-**Subject:** Creation of new Regional Captaincies of Moderation
-
-</aside>
+> [!info] 📜 Ministerial Act 06/2026
+> **Document type:** Ministerial Act (Immediate effect)
+> **Number:** 06/2026
+> **Subject:** Creation of new Regional Captaincies of Moderation
 
 ## Ministerial Act No. 06/2026 (Immediate effect)
 

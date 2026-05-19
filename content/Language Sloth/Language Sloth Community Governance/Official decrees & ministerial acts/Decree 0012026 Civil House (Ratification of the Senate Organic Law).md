@@ -1,15 +1,8 @@
-<aside>
-📜
-
-**Document type:** Decree
-
-**Number:** 001/2026
-
-**Subject:** Civil House — Ratification of the Senate Organic Law
-
-**Status:** In force as of May 20, 2026
-
-</aside>
+> [!info] 📜 Decree 001/2026
+> **Document type:** Decree
+> **Number:** 001/2026
+> **Subject:** Civil House — Ratification of the Senate Organic Law
+> **Status:** In force as of May 20, 2026
 
 ## Decree No. 001/2026 — Civil House
 

@@ -1,13 +1,7 @@
-<aside>
-📜
-
-**Document type:** Ministerial Act
-
-**Number:** 02/2026
-
-**Subject:** Vicariate order in case of the Great Khan’s absence
-
-</aside>
+> [!info] 📜 Ministerial Act 02/2026
+> **Document type:** Ministerial Act
+> **Number:** 02/2026
+> **Subject:** Vicariate order in case of the Great Khan’s absence
 
 ## Ministerial Act No. 02/2026
 
