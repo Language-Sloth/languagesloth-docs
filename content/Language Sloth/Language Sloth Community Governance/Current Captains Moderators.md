@@ -4,7 +4,7 @@
 | Region          | Capitain Moderators | Status      | Observation                                     |
 | --------------- | ------------------- | ----------- | ----------------------------------------------- |
 | Brazil          | @Nazaryan           | Temporality | Appointed by Ministerial Decree N° 08/2026      |
-| Latin America   | @Max                | Active      | -                                               |
+| Latin America   | @moi8989 (Moises)   | Active      | -                                               |
 | Western Europe  | @so la lune (Alex)  | Active      | -                                               |
 | Southern Europe | @Sr. Meow           | Active      | Appointed by Ministerial Decree N° 08/2026      |
 | Arabia          | @Wessi              | Active      | -                                               |
