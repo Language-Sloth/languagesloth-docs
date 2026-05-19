@@ -34,6 +34,6 @@ This page is an **index** of all official instruments (decrees and ministerial a
 3. Link the subpage in the correct **year** section above.
 4. If an instrument is superseded, keep it listed, and mark it as **Superseded** inside the instrument page (and optionally link the superseding instrument).
 
-[[MINISTERIAL ACT Nº 05 2026 The Code of Conduct, Rights and Duties of Moderation|MINISTERIAL ACT Nº 05/2026 The Code of Conduct, Rights and Duties of Moderation]]
+[[MINISTERIAL ACT Nº 05 2026 The Code of Conduct, Rights and Duties of Moderation|Ministerial Act Nº 05/2026 — Code of Conduct, Rights and Duties of Moderation]]
 
-[[MINISTERIAL ACT Nº 07 2026 (New Japan’s Captain Mod)|MINISTERIAL ACT Nº 07/2026 (New Japan’s Captain Mod)]]
+[[MINISTERIAL ACT Nº 07 2026 (New Japan’s Captain Mod)|Ministerial Act Nº 07/2026 — New Japan’s Captain Mod]]

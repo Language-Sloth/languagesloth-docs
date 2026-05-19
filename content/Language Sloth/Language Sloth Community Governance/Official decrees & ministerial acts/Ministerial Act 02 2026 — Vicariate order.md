@@ -1,9 +1,11 @@
+---
+title: Ministerial Act 02/2026 — Vicariate order
+---
+
 > [!info] 📜 Ministerial Act 02/2026
 > **Document type:** Ministerial Act
 > **Number:** 02/2026
 > **Subject:** Vicariate order in case of the Great Khan’s absence
-
-## Ministerial Act No. 02/2026
 
 **THE MINISTER OF CIVIL AFFAIRS AND INTERNAL RELATIONS AND EXECUTIVE OFFICER OF THE KHANATE**, in exercise of the powers granted by the Great Khan, **HEREBY DECLARES** that the following order of vicariate is established in case of the Great Khan’s absence:
 

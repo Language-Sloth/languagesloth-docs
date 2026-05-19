@@ -1,9 +1,11 @@
+---
+title: Ministerial Act 04/2026 — Weekly moderator reporting
+---
+
 > [!info] 📜 Ministerial Act 04/2026
 > **Document type:** Ministerial Act (Immediate effect)
 > **Number:** 04/2026
 > **Subject:** Weekly reporting procedure for Moderators
-
-## Ministerial Act No. 04/2026 (Immediate effect)
 
 The Minister of Civil Affairs and Internal Relations, in use of the powers granted by Khanate Decree No. 001/2026 (Article 4), **MAKES KNOWN** to all Moderators and Captain Moderators:
 

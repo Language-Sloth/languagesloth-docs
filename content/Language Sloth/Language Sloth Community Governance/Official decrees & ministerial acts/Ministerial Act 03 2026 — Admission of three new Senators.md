@@ -1,9 +1,11 @@
+---
+title: Ministerial Act 03/2026 — Admission of three new Senators
+---
+
 > [!info] 📜 Ministerial Act 03/2026
 > **Document type:** Ministerial Act (Immediate effect)
 > **Number:** 03/2026
 > **Subject:** Admission of three new Senators
-
-## Ministerial Act No. 03/2026 (Immediate effect)
 
 The Minister of Civil Affairs and Internal Relations, in use of the powers granted by Khanate Decree No. 001/2026 (especially Article 4), **MAKES KNOWN** to the President of the Senate the following:
 

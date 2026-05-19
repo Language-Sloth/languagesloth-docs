@@ -1,10 +1,11 @@
+---
+title: Ministerial Act 06/2026 — New regional captaincies
+---
 
 > [!info] 📜 Ministerial Act 06/2026
 > **Document type:** Ministerial Act (Immediate effect)
 > **Number:** 06/2026
 > **Subject:** Creation of new Regional Captaincies of Moderation
-
-## Ministerial Act No. 06/2026 (Immediate effect)
 
 The Minister of Civil Affairs and Internal Relations, in use of the powers granted by Khanate Decree No. 001/2026 (Article 4), **MAKES KNOWN** to all Administrators, Captain Moderators, and Staff members:
 
