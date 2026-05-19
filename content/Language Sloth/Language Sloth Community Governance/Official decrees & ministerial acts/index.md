@@ -1,4 +1,6 @@
-## Official decrees & ministerial acts (Index)
+---
+title: Official decrees & ministerial acts
+---
 
 This page is an **index** of all official instruments (decrees and ministerial acts).
 
