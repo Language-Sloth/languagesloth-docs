@@ -31,6 +31,7 @@ Language Sloth is organized around:
 > 🏛️ Defines the institutions of the community, what each role does, and how authority flows.
 
 [[Government structure]]
+
 [[Current Captains Moderators]]
 
 
