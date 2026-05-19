@@ -23,7 +23,7 @@ Language Sloth is organized around:
 - **The Discord community:** the main social and learning hub.
 - **Marketplace:** [store.languagesloth.org](http://store.languagesloth.org)
 - **Advertising platform:** [advertise.languagesloth.org](http://advertise.languagesloth.org)
-
+- Minecraft Server: mc-smp.languagesloth.org
 ## How to use this documentation
 
 - If you are **new**: start with **Server rules** and **Community legal process**.
