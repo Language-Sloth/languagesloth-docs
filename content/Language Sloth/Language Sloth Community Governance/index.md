@@ -37,7 +37,7 @@ Defines the institutions of the community, what each role does, and how authorit
 
 </aside>
 
-[Government structure](Government%20structure.md)
+[[Government structure]]
 
 ---
 
@@ -50,9 +50,9 @@ Practical guidance for day-to-day community behavior and how moderation decision
 
 </aside>
 
-[Server rules](Language%20Sloth/Language%20Sloth%20Community%20Governance/#%20Server%20rules.md)
+[[Server rules]]
 
-[Community legal process](Community%20legal%20process.md)
+[[Community legal process]]
 
 ---
 
@@ -65,9 +65,9 @@ The formal record: ratified rules of the Senate, and official decrees/acts that 
 
 </aside>
 
-[Official decrees & ministerial acts](Official%20decrees%20&%20ministerial%20acts.md)
+[[Language Sloth/Language Sloth Community Governance/Official decrees & ministerial acts/|Official decrees & ministerial acts]]
 
-[Senate Organic Law](Senate%20Organic%20Law.md)
+[[Senate Organic Law]]
 
 ---
 
