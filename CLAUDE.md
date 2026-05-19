@@ -49,6 +49,16 @@ In mermaid `flowchart`, declare subgraphs *before* drawing edges to them. Writin
 
 When you have a section overview AND subpages, put the overview at `Foo/index.md`, not `Foo.md` sitting next to a `Foo/` subfolder. The latter makes Quartz emit two URLs for the same content (`Foo.html` and `Foo/index.html`) and the relative wikilink math goes off-by-one for one of them, causing 404s when users land on the folder URL.
 
+### Always set `title:` on `index.md` files
+
+Without `title:` frontmatter, an `index.md` page renders its H1, breadcrumb, and `<title>` as the literal word "index". Always include:
+
+```yaml
+---
+title: Display Name For This Page
+---
+```
+
 ### Cross-folder wikilinks
 
 If a wikilink target lives in a different folder, prefer the path-explicit form: `[[Language Sloth/Foo/Bar|Bar]]`. The bare `[[Bar]]` form uses `markdownLinkResolution: "shortest"` and can pick the wrong slug when folder names and file names collide.
