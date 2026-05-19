@@ -45,6 +45,14 @@ Serves on <http://localhost:8080> with file watching.
 
 In mermaid `flowchart`, declare subgraphs *before* drawing edges to them. Writing `A --> SUBGRAPH_ID` before `subgraph SUBGRAPH_ID[...]` creates `SUBGRAPH_ID` as a plain node first, then the later `subgraph` line fails.
 
+### Folder index pages — never `Foo.md` next to `Foo/`
+
+When you have a section overview AND subpages, put the overview at `Foo/index.md`, not `Foo.md` sitting next to a `Foo/` subfolder. The latter makes Quartz emit two URLs for the same content (`Foo.html` and `Foo/index.html`) and the relative wikilink math goes off-by-one for one of them, causing 404s when users land on the folder URL.
+
+### Cross-folder wikilinks
+
+If a wikilink target lives in a different folder, prefer the path-explicit form: `[[Language Sloth/Foo/Bar|Bar]]`. The bare `[[Bar]]` form uses `markdownLinkResolution: "shortest"` and can pick the wrong slug when folder names and file names collide.
+
 ### Bold in mermaid labels
 
 Avoid `**bold**` inside node labels. The markdown processor may transform it before mermaid sees it. Use plain text in quoted labels: `NODE["Label text"]`.
