@@ -63,3 +63,5 @@
     - Decide dismissals and channel transfers (with notice in #senado)
     - Maintain order
     - Cast the tie-breaking vote
+
+## Title V
