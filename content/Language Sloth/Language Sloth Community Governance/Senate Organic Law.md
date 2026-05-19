@@ -6,7 +6,7 @@
 
 ---
 
-## Title I — Nature and Jurisdiction
+## Title I — Nature and Jurisdiction Universal
 
 - **Art. 1** The Senate is the collegiate body responsible for adjudicating impeachment proceedings against Moderators accused of:
     - Abuse of power
