@@ -39,6 +39,7 @@ Language Sloth is organized around:
 > 🧩Practical guidance for day-to-day community behavior and how moderation decisions are handled with fairness.
 
 [[Server rules]]
+
 [[Community legal process]]
 
 ---
@@ -48,6 +49,7 @@ Language Sloth is organized around:
 > 📜The formal record: ratified rules of the Senate, and official decrees/acts that create or change governance.
 
 [[Language Sloth/Language Sloth Community Governance/Official decrees & ministerial acts/index|Official decrees & ministerial acts]]
+
 [[Senate Organic Law]]
 
 ---
