@@ -1,17 +1,32 @@
-# Quartz v4
+# Language Sloth Docs
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Documentation site for the Language Sloth community, published at <https://language-sloth.github.io/languagesloth-docs/>.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+Built with [Quartz v4](https://quartz.jzhao.xyz/) from Markdown notes under `content/`.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Repository layout
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- `content/` — the actual site content (Markdown). The `Language Sloth/` subfolder holds governance docs, decrees, etc. `index.md` is the homepage.
+- `quartz/`, `quartz.config.ts`, `quartz.layout.ts` — Quartz framework and configuration.
+- `.github/workflows/deploy.yml` — GitHub Actions workflow that builds and deploys on every push to `main`.
+- `public/` — generated site output. Not committed (built by CI).
 
-## Sponsors
+## Editing content
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+1. Edit or add Markdown files under `content/`. Folder structure becomes URL structure.
+2. Commit and push to `main`. The workflow rebuilds and deploys to GitHub Pages automatically — no manual build needed.
+
+For internal links between notes, use Obsidian-style wikilinks: `[[Page name]]` or `[[Page name|Custom text]]`.
+
+## Previewing locally
+
+```sh
+npm install            # first time only
+npx quartz build --serve
+```
+
+Then open <http://localhost:8080>. The server watches `content/` and rebuilds on save.
+
+## License
+
+Quartz is MIT-licensed (see `LICENSE.txt`). Site content is © Language Sloth contributors.

@@ -4,51 +4,46 @@
 title: Maiestas Imperii — Imperial Government Structure
 ---
 flowchart TD
-    %% Apex
-    KHAN["**The Khan**"]
-    CHAN["**Chancellor**"]
+    KHAN["The Khan"]
+    CHAN["Chancellor"]
 
     KHAN --> CHAN
 
-    %% Four branches
+    subgraph SEN["🏛 Senatus — Legislative Power"]
+        PRES["President of the Senate"]
+        SENAT["Senator"]
+        PRES --> SENAT
+    end
+
+    subgraph TRIB["⚔ Tribunicia Potestas — Executive Power"]
+        CONS["Consul"]
+        CAPM["Captain Moderator"]
+        MODER["Moderator"]
+        CONS --> CAPM --> MODER
+    end
+
+    subgraph MAG["⚖ Magistratus — Judicial Power"]
+        JUST["Minister of Justice"]
+        ATT["Attorney"]
+        JUST --> ATT
+    end
+
+    subgraph OFF["📜 Magister Officiorum — Ministries to the People"]
+        MCIV["Minister of Civil House"]
+        MLES["Minister of Lessons"]
+        MCOD["Minister of Code"]
+        TEACH["Teachers"]
+        MLES --> TEACH
+    end
+
+    USERS["Users"]
+
     CHAN --> SEN
     CHAN --> TRIB
     CHAN --> MAG
     CHAN --> OFF
 
-    %% Senatus — Legislative Power
-    subgraph SEN["🏛 Senatus — Legislative Power"]
-        PRES["**President of the Senate**"]
-        SENAT["**Senator**"]
-        PRES --> SENAT
-    end
-
-    %% Tribunicia Potestas — Executive Power
-    subgraph TRIB["⚔ Tribunicia Potestas — Executive Power"]
-        CONS["**Consul**"]
-        CAPM["**Captain Moderator**"]
-        MODER["**Moderator**"]
-        CONS --> CAPM --> MODER
-    end
-
-    %% Magistratus — Judicial Power
-    subgraph MAG["⚖ Magistratus — Judicial Power"]
-        JUST["**Minister of Justice**"]
-        ATT["**Attorney**"]
-        JUST --> ATT
-    end
-
-    %% Magister Officiorum — Ministries to the People
-    subgraph OFF["📜 Magister Officiorum — Ministries to the People"]
-        MCIV["**Minister of Civil House**"]
-        MLES["**Minister of Lessons**"]
-        MCOD["**Minister of Code**"]
-        TEACH["**Teachers**"]
-        MLES --> TEACH
-    end
-
-    %% Users — governed by Legislature & Executive
-    SENAT --> USERS["**Users**"]
+    SENAT --> USERS
     MODER --> USERS
 ```
 
