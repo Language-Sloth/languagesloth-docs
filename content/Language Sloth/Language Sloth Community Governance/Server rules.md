@@ -1,13 +1,8 @@
 ## Server rules (quick guide)
 
-<aside>
-📌
-
-**Purpose:** Keep this community safe, welcoming, and useful for everyone.
-
-Rules apply to public channels, voice channels, DMs started via this server, usernames, nicknames, avatars, bios, and external links shared here.
-
-</aside>
+> 📌**Purpose:** Keep this community safe, welcoming, and useful for everyone.
+> 
+> Rules apply to public channels, voice channels, DMs started via this server, usernames, nicknames, avatars, bios, and external links shared here.
 
 ### Community standards
 

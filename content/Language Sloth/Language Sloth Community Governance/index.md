@@ -1,13 +1,7 @@
 ---
 title: Language Sloth Community Governance
 ---
-
-<aside>
-🦥
-
-**Language Sloth** is a large language-learning Discord community. This documentation library explains how the community is governed, how rules are enforced fairly, and how official decisions are published and preserved.
-
-</aside>
+> **Language Sloth** is a large language-learning Discord community. This documentation library explains how the community is governed, how rules are enforced fairly, and how official decisions are published and preserved.
 
 ## What this library is for
 
@@ -34,12 +28,7 @@ Language Sloth is organized around:
 
 ## Governance
 
-<aside>
-🏛️
-
-Defines the institutions of the community, what each role does, and how authority flows.
-
-</aside>
+> 🏛️ Defines the institutions of the community, what each role does, and how authority flows.
 
 [[Government structure]]
 
@@ -47,30 +36,18 @@ Defines the institutions of the community, what each role does, and how authorit
 
 ## Community Rules & Process
 
-<aside>
-🧩
-
-Practical guidance for day-to-day community behavior and how moderation decisions are handled with fairness.
-
-</aside>
+> 🧩Practical guidance for day-to-day community behavior and how moderation decisions are handled with fairness.
 
 [[Server rules]]
-
 [[Community legal process]]
 
 ---
 
 ## Law & Official Acts
 
-<aside>
-📜
+> 📜The formal record: ratified rules of the Senate, and official decrees/acts that create or change governance.
 
-The formal record: ratified rules of the Senate, and official decrees/acts that create or change governance.
-
-</aside>
-
-[[Language Sloth/Language Sloth Community Governance/Official decrees & ministerial acts/|Official decrees & ministerial acts]]
-
+[[Language Sloth/Language Sloth Community Governance/Official decrees & ministerial acts/index|Official decrees & ministerial acts]]
 [[Senate Organic Law]]
 
 ---

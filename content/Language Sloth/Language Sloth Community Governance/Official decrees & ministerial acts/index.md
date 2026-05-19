@@ -1,22 +1,11 @@
 ---
 title: Official decrees & ministerial acts
 ---
-
 This page is an **index** of all official instruments (decrees and ministerial acts).
 
-<aside>
-✅
-
-**Scalable standard:** each instrument lives on its **own subpage**. This keeps the index fast and makes it easy to scale to hundreds of documents.
-
-</aside>
-
-<aside>
-🧹
-
-**Clean text rule:** avoid Discord IDs / pings in canonical documents. Use role titles (e.g., “President of the Senate”) instead.
-
-</aside>
+> ✅**Scalable standard:** each instrument lives on its **own subpage**. This keeps the index fast and makes it easy to scale to hundreds of documents.
+> 
+> 🧹**Clean text rule:** avoid Discord IDs / pings in canonical documents. Use role titles (e.g., “President of the Senate”) instead.
 
 ---
 

@@ -1,10 +1,5 @@
 
-<aside>
-🧭
-
-This page explains **how moderation decisions are made**, **what evidence is required**, and **how to appeal** — with fairness, consistency, and transparency.
-
-</aside>
+> 🧭This page explains **how moderation decisions are made**, **what evidence is required**, and **how to appeal** — with fairness, consistency, and transparency.
 
 ## Principles
 
