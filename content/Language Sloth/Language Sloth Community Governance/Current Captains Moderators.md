@@ -1,11 +1,10 @@
 (Updated in 19th May 2026)
 
-
 | Region          | Capitain Moderators | Status      | Observation                                     |
 | --------------- | ------------------- | ----------- | ----------------------------------------------- |
 | Brazil          | @Nazaryan           | Temporality | Appointed by Ministerial Decree N° 08/2026      |
-| Latin America   | @moi8989 (Moises)   | Active      | -                                               |
-| Western Europe  | @so la lune (Alex)  | Active      | -                                               |
+| Latin America   | @moi8989(Moises)    | Active      | -                                               |
+| Western Europe  | @so la lune(Alex)   | Active      | -                                               |
 | Southern Europe | @Sr. Meow           | Active      | Appointed by Ministerial Decree N° 08/2026      |
 | Arabia          | @Wessi              | Active      | -                                               |
 | Turkey          | @tecrübe            | Active      | -                                               |
