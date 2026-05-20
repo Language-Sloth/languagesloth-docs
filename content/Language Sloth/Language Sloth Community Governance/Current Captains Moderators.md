@@ -7,8 +7,8 @@
 | Western Europe  | @so la lune(Alex)   | Active      | -                                               |
 | Southern Europe | @Sr. Meow           | Active      | Appointed by Ministerial Decree N° 08/2026      |
 | Arabia          | @Wessi              | Active      | -                                               |
-| Turkey          | NDA                 | Vacant      | -                                               |
-| Eastern Europe  | NDA                 | Vacant      | -                                               |
+| Turkey          | @Krakow             | Active      | Appointed by Ministerial Decree N° 10/2026      |
+| Eastern Europe  | @mangust356 (Gregg) | Provisional | Appointed by Ministerial Decree N° 10/2026      |
 | Africa          | @abdel4999          | Active      | -                                               |
 | North America   | @CognitusPrimus     | Active      | -                                               |
 | Japan           | @Tetsu              | Active      | Appointed by Ministerial Decree N° 07/2026      |
