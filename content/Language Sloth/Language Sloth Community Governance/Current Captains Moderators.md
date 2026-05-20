@@ -1,4 +1,4 @@
-(Updated in 19th May 2026)
+(Updated in 20th May 2026)
 
 | Region          | Capitain Moderators | Status      | Observation                                     |
 | --------------- | ------------------- | ----------- | ----------------------------------------------- |
