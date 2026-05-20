@@ -32,4 +32,4 @@ title: Ministerial Act Nº 010/2026
 
 **IN THE NAME OF THE GREAT KHAN** **IN THE NAME OF GOD**
 
-**Marescallus Zanella (Biaggioni)** **Minister of Civil Affairs and Internal Relations** **Executive Officer of the Khanate**
+**Marescallus Zanella (Biaggioni)** **Minister of Civil Affairs and Internal Relations** **Executive Officer of the Khanate**.
