@@ -39,13 +39,13 @@ This page is an **index** of all official instruments (decrees and ministerial a
 
 [[MINISTERIAL ACT Nº 08 2026]]
 
-[[OFFICIAL REPORT – MINISTRY OF THE CIVIL HOUSE]]
-
 [[MINISTERIAL ACT N° 09 2026]]
 
 [[MINISTERIAL ACT Nº 10 2026]]
 
 [[MINISTERIAL ACT N° 11 2026]]
+
+[[OFFICIAL REPORT – MINISTRY OF THE CIVIL HOUSE]]
 
 [[MINISTERIAL ACT N° 12 2026]]
 

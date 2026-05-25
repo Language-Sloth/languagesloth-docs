@@ -3,7 +3,7 @@
 > [!info] 📜 Ministerial Act Nº 11/2026
 > **Document type:** Ministerial Act (With Immediate Effect)
 > **Number:** Nº 11/2026
-> **Subject:** 
+> **Subject:** Guidelines on Moderation Hierarchy, Reporting Structure, and Restrictions on Unilateral Demotions
 
 Ministry of the Civil House of Internal Relations
 Sloth Server
