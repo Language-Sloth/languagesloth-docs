@@ -1,8 +1,9 @@
->
-[!info] 📜 Ministerial Act Nº 12/2026
+
+> [!info] 📜 Ministerial Act Nº 12/2026
 > **Document type:** Ministerial Act (With Immediate Effect)
 > **Number:** Nº 12/2026
 > **Subject:** Definitive Appointment of Captain Nazaryan as Captain Moderator of Brazil
+
 
 OFFICIAL MINISTERIAL ACT No. 12
 Ministry of the Civil House of Internal Relations

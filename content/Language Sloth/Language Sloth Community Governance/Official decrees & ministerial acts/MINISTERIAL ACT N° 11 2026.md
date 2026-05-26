@@ -1,5 +1,4 @@
 
-
 > [!info] 📜 Ministerial Act Nº 11/2026
 > **Document type:** Ministerial Act (With Immediate Effect)
 > **Number:** Nº 11/2026

@@ -1,3 +1,4 @@
+
 MINISTERIAL ACT Nº 09/2026
 (With Immediate Effect)
 The Minister of Civil Affairs and Internal Relations,
