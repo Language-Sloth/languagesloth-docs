@@ -35,7 +35,7 @@ This page is an **index** of all official instruments (decrees and ministerial a
 
 [[Ministerial Act 06 2026 — New regional captaincies|Ministerial Act 06/2026 — New regional captaincies]]
 
-[[MINISTERIAL ACT Nº 07 2026 (New Japan’s Captain Mod)|Ministerial Act Nº 07/2026 — New Japan’s Captain Mod]]
+[[Ministerial Act 07 2026  — (New Japan’s Captain Mod)]]
 
 [[MINISTERIAL ACT Nº 08 2026]]
 
