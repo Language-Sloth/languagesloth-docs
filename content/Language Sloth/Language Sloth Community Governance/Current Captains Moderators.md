@@ -1,6 +1,6 @@
-(Updated in 20th May 2026)
+(Updated in 30th May 2026)
 
-| Region          | Capitain Moderators | Status      | Observation                                     |
+| Region          | Captain Moderators  | Status      | Observation                                     |
 | --------------- | ------------------- | ----------- | ----------------------------------------------- |
 | Brazil          | @Nazaryan           | Active      | Appointed by Ministerial Decree N° 12/2026      |
 | Latin America   | @moi8989(Moises)    | Active      | -                                               |
@@ -15,3 +15,9 @@
 | British Isles   | NDA                 | Vacant      | Captaincy Created by Ministerial Act N° 06/2026 |
 | Quebec-France   | @UpsetSquirrel      | Active      | Appointed by Ministerial Decree N° 09/2026      |
 | China           | NDA                 | Vacant      | Captaincy Created by Ministerial Act N° 09/2026 |
+
+#### ==**General Moderation Captaincy:**==
+
+| General Captain Moderator | Status | Observation                                     |
+| ------------------------- | ------ | ----------------------------------------------- |
+| @Menma                    | Active | Captaincy Created by Ministerial Act N° 13/2026 |
