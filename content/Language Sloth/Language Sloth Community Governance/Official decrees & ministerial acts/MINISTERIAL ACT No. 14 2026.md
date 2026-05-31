@@ -1,6 +1,7 @@
-OFFICIAL MINISTERIAL ACT No. 14
-Ministry of the Civil House of Internal Relations 
-Khanate Server Subject: Establishment of the Major Moderator Position and Appointment of Its First Holders
+
+**Document type:** Ministerial Act (With Immediate Effect)  
+**Number:** Nº 14/2026  
+**Subject:** Establishment of the Major Moderator Position and Appointment of Initial Officeholders
 
 Date: May 30, 2026
 By virtue of the authority vested in me as Minister of the Civil House of Internal Relations, and in accordance with the organizational framework established by the Khanate Decree, I hereby decree as follows:

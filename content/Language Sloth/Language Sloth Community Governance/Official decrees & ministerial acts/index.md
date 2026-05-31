@@ -49,8 +49,9 @@ This page is an **index** of all official instruments (decrees and ministerial a
 
 [[MINISTERIAL ACT N° 12 2026]]
 
-[MINISTERIAL ACT No. 13]
+[MINISTERIAL ACT N° 13 2026]
 
+[[MINISTERIAL ACT No. 14 2026]]
 
 ## How to add new instruments
 
